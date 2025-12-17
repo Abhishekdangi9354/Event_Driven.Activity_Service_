@@ -1,2 +1,1 @@
-# Event_Driven.Activity_Service_
-Event_Driven.Activity_Service_
+Event_Driven.Activity_Service
